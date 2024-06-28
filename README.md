@@ -6,12 +6,12 @@ Soy David, un desarrollador web apasionado por la creación de experiencias digi
 
 - Desarrollo web con HTML, CSS, JavaScript
 - Frameworks y bibliotecas: React.js, Vue.js, Angular.ts
-- Estilos: Tailwind, CSS 
+- Estilos: TailwindCSS 
 - Desarrollo backend con Node.js y Express
 - Bases de datos: MongoDB, MySQL
 - Control de versiones con Git/GitHub
 
-[![My Skills](https://skillicons.dev/icons?i=next,react,vue,angular,js,html,css,tailwind,mysql,mongo,docker,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,react,vue,angular,js,html,css,tailwind,mysql,mongo,docker,github,php,python,java,laravel,spring,django)](https://skillicons.dev)
 
 
 
