@@ -7,7 +7,7 @@ Soy David, un desarrollador web apasionado por la creación de experiencias digi
 [![My Skills](https://skillicons.dev/icons?i=next,react,vue,angular,js,html,css,tailwind)](https://skillicons.dev)
 ---
 ## Backend
-[![My Skills](https://skillicons.dev/icons?i=php,python,java,laravel,django,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,python,java,laravel,django,spring,nodejs)](https://skillicons.dev)
 ---
 ## BBDD, Despliegue y control de versiones
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgresql,docker,github)](https://skillicons.dev)
