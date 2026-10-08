@@ -17,7 +17,6 @@ Soy David, un desarrollador web apasionado por la creación de experiencias digi
 
 - **Correo Electrónico:** davidmpenades@gmail.com
 - **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/david-moreno-1675a4248/)
-- **Portfolio:** [davidstudiomode.es](https://www.davidstudiomode.es/)
 
 # Idiomas
 
