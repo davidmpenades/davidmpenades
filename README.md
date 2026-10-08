@@ -4,7 +4,7 @@ Soy David, un desarrollador web apasionado por la creación de experiencias digi
 
 # Habilidades
 ## Frontend
-[![My Skills](https://skillicons.dev/icons?i=next,react,vue,js,html,css,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,js,html,css,tailwind)](https://skillicons.dev)
 ---
 ## Backend
 [![My Skills](https://skillicons.dev/icons?i=python,django)](https://skillicons.dev)
